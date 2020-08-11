@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a VM </h2>
-<h2> Deploying on container and testing a job</h2>
+<h2> Everything will be good</h2>
